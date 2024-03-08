@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\folder\\Sample\\Sample\\Sample.csproj": {}
+    "D:\\folder\\Sample\\Sample\\Sample.csproj": {}
   },
   "projects": {
-    "d:\\folder\\Sample\\Sample\\Sample.csproj": {
+    "D:\\folder\\Sample\\Sample\\Sample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\folder\\Sample\\Sample\\Sample.csproj",
+        "projectUniqueName": "D:\\folder\\Sample\\Sample\\Sample.csproj",
         "projectName": "Sample",
-        "projectPath": "d:\\folder\\Sample\\Sample\\Sample.csproj",
+        "projectPath": "D:\\folder\\Sample\\Sample\\Sample.csproj",
         "packagesPath": "C:\\Users\\priyadharshini.b.OFS1\\.nuget\\packages\\",
-        "outputPath": "d:\\folder\\Sample\\Sample\\obj\\",
+        "outputPath": "D:\\folder\\Sample\\Sample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
